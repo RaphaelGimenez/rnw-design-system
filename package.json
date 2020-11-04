@@ -10,11 +10,14 @@
     "storybook:web": "start-storybook",
     "storybook:android": "react-native run-android",
     "storybook:ios": "react-native run-ios",
-    "build-storybook": "build-storybook --no-dll"
+    "build-storybook": "build-storybook --no-dll",
+    "figma:webpack:watch": "webpack --config figma.webpack.config.js --watch",
+    "figma:webpack:hmr": "webpack --config figma.webpack.config.js && webpack serve --config figma.webpack.ui.config.js"
   },
   "dependencies": {
     "react": "16.14.0",
     "react-dom": "^17.0.1",
+    "react-figma": "^0.1.16",
     "react-native": "0.63.3",
     "react-native-svg": "^12.1.0",
     "react-native-web": "^0.14.7"
@@ -44,6 +47,7 @@
     "html-webpack-plugin": "^4.5.0",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-docgen-typescript-loader": "^3.7.2",
+    "react-figma-webpack-config": "^0.0.7",
     "react-scripts": "^4.0.0",
     "react-test-renderer": "16.13.1",
     "ts-loader": "^8.0.8",

@@ -8,7 +8,6 @@
     ],
     "allowJs": true,
     "jsx": "react",
-    "noEmit": true,
     "isolatedModules": true,
     "strict": true,
     "noUnusedLocals": true,
@@ -28,6 +27,6 @@
     "jest.config.js"
   ],
   "include": [
-    "src"
+    "src", "figma.d.ts"
   ]
 }
