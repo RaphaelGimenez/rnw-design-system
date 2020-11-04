@@ -5,6 +5,7 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
+    "web": "react-scripts start",
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
@@ -25,15 +26,14 @@
     "@types/react-test-renderer": "^16.9.2",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
     "@typescript-eslint/parser": "^2.27.0",
-    "babel-jest": "^25.1.0",
-    "eslint": "^6.5.1",
+    "eslint": "^7.11.0",
     "html-webpack-plugin": "^4.5.0",
-    "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
+    "react-scripts": "^4.0.0",
     "react-test-renderer": "16.13.1",
     "ts-loader": "^8.0.8",
     "typescript": "^3.8.3",
-    "webpack": "^5.4.0",
+    "webpack": "4.44.2",
     "webpack-cli": "^4.1.0",
     "webpack-dev-server": "^3.11.0"
   },
@@ -46,6 +46,18 @@
       "jsx",
       "json",
       "node"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ]
   }
 }
