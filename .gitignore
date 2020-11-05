@@ -6,6 +6,7 @@
 #
 dist/
 build/
+./components/
 *.pbxuser
 !default.pbxuser
 *.mode1v3

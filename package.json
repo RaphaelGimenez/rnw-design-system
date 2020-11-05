@@ -11,7 +11,8 @@
     "storybook:ios": "react-native run-ios",
     "build-storybook": "build-storybook --no-dll",
     "figma:webpack:watch": "webpack --config figma.webpack.config.js --watch",
-    "figma:webpack:hmr": "webpack --config figma.webpack.config.js && webpack serve --config figma.webpack.ui.config.js"
+    "figma:webpack:hmr": "webpack --config figma.webpack.config.js && webpack serve --config figma.webpack.ui.config.js",
+    "build:components": "tsc -p lib.tsconfig.json"
   },
   "dependencies": {
     "@bit/joshk.envs.react-native-compiler": "^0.0.3",
@@ -90,7 +91,7 @@
   },
   "bit": {
     "env": {
-      "compiler": "@bit/joshk.envs.react-native-compiler"
+      "compiler": "kungfuyou.envs/compilers/react-native-web@0.0.1"
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "yarn",
