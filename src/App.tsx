@@ -9,22 +9,26 @@
  */
 
 import React from 'react';
-import { Page, StyleSheet, Text } from 'react-figma';
+import {Page, StyleSheet} from 'react-figma';
+import styled from '@emotion/native';
 
 const styles = StyleSheet.create({
-    page: {
-        flexDirection: "row"
-    },
-    frameNonFirst: {
-        marginLeft: 100
-    }
+  page: {
+    flexDirection: 'row',
+  },
+  frameNonFirst: {
+    marginLeft: 100,
+  },
 });
 
 const App = () => {
+  const Test = styled.Text({
+    color: 'green',
+  });
   return (
     <>
       <Page isCurrent name="Styleguide" style={styles.page}>
-          <Text>Test</Text>
+        <Test>Test</Test>
       </Page>
     </>
   );

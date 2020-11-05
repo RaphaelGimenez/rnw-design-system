@@ -27,6 +27,6 @@
     "jest.config.js"
   ],
   "include": [
-    "src", "figma.d.ts"
+    "src", "figma.d.ts", "emotion.d.ts"
   ]
 }
