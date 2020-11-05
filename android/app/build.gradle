@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.sportihomecomponents"
+        applicationId "com.yourdesignsystem"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

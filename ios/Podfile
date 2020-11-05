@@ -3,12 +3,12 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'SportihomeComponents' do
+target 'YourDesignSystem' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'SportihomeComponentsTests' do
+  target 'YourDesignSystemTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -23,10 +23,10 @@ target 'SportihomeComponents' do
   end
 end
 
-target 'SportihomeComponents-tvOS' do
-  # Pods for SportihomeComponents-tvOS
+target 'YourDesignSystem-tvOS' do
+  # Pods for YourDesignSystem-tvOS
 
-  target 'SportihomeComponents-tvOSTests' do
+  target 'YourDesignSystem-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

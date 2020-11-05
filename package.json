@@ -1,5 +1,5 @@
 {
-  "name": "sportihome-components",
+  "name": "your-design-system",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@bit/joshk.envs.react-native-compiler": "^0.0.3",
-    "@bit/sportihome.landings.utils": "^0.1.0",
     "@emotion/core": "^10.1.1",
     "@emotion/native": "^10.0.27",
     "react": "16.14.0",

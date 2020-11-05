@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* SportihomeComponentsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportihomeComponentsTests.m */; };
+		00E356F31AD99517003FC87E /* YourDesignSystemTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* YourDesignSystemTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* SportihomeComponentsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SportihomeComponentsTests.m */; };
-		392CC55A6F3FCF3E749DF853 /* libPods-SportihomeComponents-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC4028BBDE23F8D1F22B2B46 /* libPods-SportihomeComponents-tvOSTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* YourDesignSystemTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* YourDesignSystemTests.m */; };
+		392CC55A6F3FCF3E749DF853 /* libPods-YourDesignSystem-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC4028BBDE23F8D1F22B2B46 /* libPods-YourDesignSystem-tvOSTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		AA6E761AD172B2466B59C899 /* libPods-SportihomeComponents-SportihomeComponentsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 515C1AA2E36D2D4F89C0079B /* libPods-SportihomeComponents-SportihomeComponentsTests.a */; };
-		B8FF1A0A6694BF255FDB6D61 /* libPods-SportihomeComponents.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8CBE526970FEB9B6D6CCDC /* libPods-SportihomeComponents.a */; };
-		BE61EEBBE3BB343A970B9D44 /* libPods-SportihomeComponents-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 10722874A7ED725CDAC72EBE /* libPods-SportihomeComponents-tvOS.a */; };
+		AA6E761AD172B2466B59C899 /* libPods-YourDesignSystem-YourDesignSystemTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 515C1AA2E36D2D4F89C0079B /* libPods-YourDesignSystem-YourDesignSystemTests.a */; };
+		B8FF1A0A6694BF255FDB6D61 /* libPods-YourDesignSystem.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8CBE526970FEB9B6D6CCDC /* libPods-YourDesignSystem.a */; };
+		BE61EEBBE3BB343A970B9D44 /* libPods-YourDesignSystem-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 10722874A7ED725CDAC72EBE /* libPods-YourDesignSystem-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = SportihomeComponents;
+			remoteInfo = YourDesignSystem;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "SportihomeComponents-tvOS";
+			remoteInfo = "YourDesignSystem-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* SportihomeComponentsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportihomeComponentsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* YourDesignSystemTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YourDesignSystemTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* SportihomeComponentsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SportihomeComponentsTests.m; sourceTree = "<group>"; };
-		10722874A7ED725CDAC72EBE /* libPods-SportihomeComponents-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportihomeComponents-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* SportihomeComponents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportihomeComponents.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SportihomeComponents/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SportihomeComponents/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SportihomeComponents/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SportihomeComponents/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SportihomeComponents/main.m; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* SportihomeComponents-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SportihomeComponents-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* SportihomeComponents-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SportihomeComponents-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		334400ADF24D5E410D60DC31 /* Pods-SportihomeComponents.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents.release.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents/Pods-SportihomeComponents.release.xcconfig"; sourceTree = "<group>"; };
-		4E11932016B4E4F16BDD345E /* Pods-SportihomeComponents-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-tvOSTests/Pods-SportihomeComponents-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		515C1AA2E36D2D4F89C0079B /* libPods-SportihomeComponents-SportihomeComponentsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportihomeComponents-SportihomeComponentsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SportihomeComponents/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		91EDB03D06653C6760795C7C /* Pods-SportihomeComponents-SportihomeComponentsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-SportihomeComponentsTests.debug.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-SportihomeComponentsTests/Pods-SportihomeComponents-SportihomeComponentsTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B1ABB4A5A85E269D3D8D5FB2 /* Pods-SportihomeComponents-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-tvOS/Pods-SportihomeComponents-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		CA9F5D95D048AFC905FD04E0 /* Pods-SportihomeComponents-SportihomeComponentsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-SportihomeComponentsTests.release.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-SportihomeComponentsTests/Pods-SportihomeComponents-SportihomeComponentsTests.release.xcconfig"; sourceTree = "<group>"; };
-		CC8CBE526970FEB9B6D6CCDC /* libPods-SportihomeComponents.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportihomeComponents.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC4028BBDE23F8D1F22B2B46 /* libPods-SportihomeComponents-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SportihomeComponents-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E1D67BB992476E5389883F33 /* Pods-SportihomeComponents.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents.debug.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents/Pods-SportihomeComponents.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* YourDesignSystemTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YourDesignSystemTests.m; sourceTree = "<group>"; };
+		10722874A7ED725CDAC72EBE /* libPods-YourDesignSystem-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YourDesignSystem-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* YourDesignSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YourDesignSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = YourDesignSystem/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = YourDesignSystem/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = YourDesignSystem/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = YourDesignSystem/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = YourDesignSystem/main.m; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* YourDesignSystem-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "YourDesignSystem-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* YourDesignSystem-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "YourDesignSystem-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		334400ADF24D5E410D60DC31 /* Pods-YourDesignSystem.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem.release.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem/Pods-YourDesignSystem.release.xcconfig"; sourceTree = "<group>"; };
+		4E11932016B4E4F16BDD345E /* Pods-YourDesignSystem-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-tvOSTests/Pods-YourDesignSystem-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		515C1AA2E36D2D4F89C0079B /* libPods-YourDesignSystem-YourDesignSystemTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YourDesignSystem-YourDesignSystemTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = YourDesignSystem/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		91EDB03D06653C6760795C7C /* Pods-YourDesignSystem-YourDesignSystemTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-YourDesignSystemTests.debug.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-YourDesignSystemTests/Pods-YourDesignSystem-YourDesignSystemTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B1ABB4A5A85E269D3D8D5FB2 /* Pods-YourDesignSystem-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-tvOS/Pods-YourDesignSystem-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		CA9F5D95D048AFC905FD04E0 /* Pods-YourDesignSystem-YourDesignSystemTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-YourDesignSystemTests.release.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-YourDesignSystemTests/Pods-YourDesignSystem-YourDesignSystemTests.release.xcconfig"; sourceTree = "<group>"; };
+		CC8CBE526970FEB9B6D6CCDC /* libPods-YourDesignSystem.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YourDesignSystem.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC4028BBDE23F8D1F22B2B46 /* libPods-YourDesignSystem-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YourDesignSystem-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1D67BB992476E5389883F33 /* Pods-YourDesignSystem.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem.debug.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem/Pods-YourDesignSystem.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F252EA7035A0CE76ADFB072D /* Pods-SportihomeComponents-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-tvOSTests/Pods-SportihomeComponents-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		FE9668B471C5E2DD1F4094A9 /* Pods-SportihomeComponents-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportihomeComponents-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SportihomeComponents-tvOS/Pods-SportihomeComponents-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		F252EA7035A0CE76ADFB072D /* Pods-YourDesignSystem-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-tvOSTests/Pods-YourDesignSystem-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		FE9668B471C5E2DD1F4094A9 /* Pods-YourDesignSystem-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YourDesignSystem-tvOS.release.xcconfig"; path = "Target Support Files/Pods-YourDesignSystem-tvOS/Pods-YourDesignSystem-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA6E761AD172B2466B59C899 /* libPods-SportihomeComponents-SportihomeComponentsTests.a in Frameworks */,
+				AA6E761AD172B2466B59C899 /* libPods-YourDesignSystem-YourDesignSystemTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8FF1A0A6694BF255FDB6D61 /* libPods-SportihomeComponents.a in Frameworks */,
+				B8FF1A0A6694BF255FDB6D61 /* libPods-YourDesignSystem.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE61EEBBE3BB343A970B9D44 /* libPods-SportihomeComponents-tvOS.a in Frameworks */,
+				BE61EEBBE3BB343A970B9D44 /* libPods-YourDesignSystem-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				392CC55A6F3FCF3E749DF853 /* libPods-SportihomeComponents-tvOSTests.a in Frameworks */,
+				392CC55A6F3FCF3E749DF853 /* libPods-YourDesignSystem-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* SportihomeComponentsTests */ = {
+		00E356EF1AD99517003FC87E /* YourDesignSystemTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* SportihomeComponentsTests.m */,
+				00E356F21AD99517003FC87E /* YourDesignSystemTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = SportihomeComponentsTests;
+			path = YourDesignSystemTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* SportihomeComponents */ = {
+		13B07FAE1A68108700A75B9A /* YourDesignSystem */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,20 +133,20 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = SportihomeComponents;
+			name = YourDesignSystem;
 			sourceTree = "<group>";
 		};
 		1EF0696B609110B2F9F804F5 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E1D67BB992476E5389883F33 /* Pods-SportihomeComponents.debug.xcconfig */,
-				334400ADF24D5E410D60DC31 /* Pods-SportihomeComponents.release.xcconfig */,
-				91EDB03D06653C6760795C7C /* Pods-SportihomeComponents-SportihomeComponentsTests.debug.xcconfig */,
-				CA9F5D95D048AFC905FD04E0 /* Pods-SportihomeComponents-SportihomeComponentsTests.release.xcconfig */,
-				B1ABB4A5A85E269D3D8D5FB2 /* Pods-SportihomeComponents-tvOS.debug.xcconfig */,
-				FE9668B471C5E2DD1F4094A9 /* Pods-SportihomeComponents-tvOS.release.xcconfig */,
-				F252EA7035A0CE76ADFB072D /* Pods-SportihomeComponents-tvOSTests.debug.xcconfig */,
-				4E11932016B4E4F16BDD345E /* Pods-SportihomeComponents-tvOSTests.release.xcconfig */,
+				E1D67BB992476E5389883F33 /* Pods-YourDesignSystem.debug.xcconfig */,
+				334400ADF24D5E410D60DC31 /* Pods-YourDesignSystem.release.xcconfig */,
+				91EDB03D06653C6760795C7C /* Pods-YourDesignSystem-YourDesignSystemTests.debug.xcconfig */,
+				CA9F5D95D048AFC905FD04E0 /* Pods-YourDesignSystem-YourDesignSystemTests.release.xcconfig */,
+				B1ABB4A5A85E269D3D8D5FB2 /* Pods-YourDesignSystem-tvOS.debug.xcconfig */,
+				FE9668B471C5E2DD1F4094A9 /* Pods-YourDesignSystem-tvOS.release.xcconfig */,
+				F252EA7035A0CE76ADFB072D /* Pods-YourDesignSystem-tvOSTests.debug.xcconfig */,
+				4E11932016B4E4F16BDD345E /* Pods-YourDesignSystem-tvOSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -157,10 +157,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				CC8CBE526970FEB9B6D6CCDC /* libPods-SportihomeComponents.a */,
-				515C1AA2E36D2D4F89C0079B /* libPods-SportihomeComponents-SportihomeComponentsTests.a */,
-				10722874A7ED725CDAC72EBE /* libPods-SportihomeComponents-tvOS.a */,
-				DC4028BBDE23F8D1F22B2B46 /* libPods-SportihomeComponents-tvOSTests.a */,
+				CC8CBE526970FEB9B6D6CCDC /* libPods-YourDesignSystem.a */,
+				515C1AA2E36D2D4F89C0079B /* libPods-YourDesignSystem-YourDesignSystemTests.a */,
+				10722874A7ED725CDAC72EBE /* libPods-YourDesignSystem-tvOS.a */,
+				DC4028BBDE23F8D1F22B2B46 /* libPods-YourDesignSystem-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -175,9 +175,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* SportihomeComponents */,
+				13B07FAE1A68108700A75B9A /* YourDesignSystem */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* SportihomeComponentsTests */,
+				00E356EF1AD99517003FC87E /* YourDesignSystemTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				1EF0696B609110B2F9F804F5 /* Pods */,
@@ -190,10 +190,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* SportihomeComponents.app */,
-				00E356EE1AD99517003FC87E /* SportihomeComponentsTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* SportihomeComponents-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* SportihomeComponents-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* YourDesignSystem.app */,
+				00E356EE1AD99517003FC87E /* YourDesignSystemTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* YourDesignSystem-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* YourDesignSystem-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* SportihomeComponentsTests */ = {
+		00E356ED1AD99517003FC87E /* YourDesignSystemTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportihomeComponentsTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "YourDesignSystemTests" */;
 			buildPhases = (
 				AFD8AA14DD83F3162AB9B2C7 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +216,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = SportihomeComponentsTests;
-			productName = SportihomeComponentsTests;
-			productReference = 00E356EE1AD99517003FC87E /* SportihomeComponentsTests.xctest */;
+			name = YourDesignSystemTests;
+			productName = YourDesignSystemTests;
+			productReference = 00E356EE1AD99517003FC87E /* YourDesignSystemTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* SportihomeComponents */ = {
+		13B07F861A680F5B00A75B9A /* YourDesignSystem */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportihomeComponents" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "YourDesignSystem" */;
 			buildPhases = (
 				DA947E913C5E9FA5D9F5B623 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -237,14 +237,14 @@
 			);
 			dependencies = (
 			);
-			name = SportihomeComponents;
-			productName = SportihomeComponents;
-			productReference = 13B07F961A680F5B00A75B9A /* SportihomeComponents.app */;
+			name = YourDesignSystem;
+			productName = YourDesignSystem;
+			productReference = 13B07F961A680F5B00A75B9A /* YourDesignSystem.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* SportihomeComponents-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* YourDesignSystem-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportihomeComponents-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YourDesignSystem-tvOS" */;
 			buildPhases = (
 				72F249093D9168F3D62B5012 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -257,14 +257,14 @@
 			);
 			dependencies = (
 			);
-			name = "SportihomeComponents-tvOS";
-			productName = "SportihomeComponents-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* SportihomeComponents-tvOS.app */;
+			name = "YourDesignSystem-tvOS";
+			productName = "YourDesignSystem-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* YourDesignSystem-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* SportihomeComponents-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* YourDesignSystem-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportihomeComponents-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YourDesignSystem-tvOSTests" */;
 			buildPhases = (
 				51BDB9653EF816684F91675C /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -276,9 +276,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "SportihomeComponents-tvOSTests";
-			productName = "SportihomeComponents-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* SportihomeComponents-tvOSTests.xctest */;
+			name = "YourDesignSystem-tvOSTests";
+			productName = "YourDesignSystem-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* YourDesignSystem-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -307,7 +307,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportihomeComponents" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "YourDesignSystem" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,10 +320,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* SportihomeComponents */,
-				00E356ED1AD99517003FC87E /* SportihomeComponentsTests */,
-				2D02E47A1E0B4A5D006451C7 /* SportihomeComponents-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* SportihomeComponents-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* YourDesignSystem */,
+				00E356ED1AD99517003FC87E /* YourDesignSystemTests */,
+				2D02E47A1E0B4A5D006451C7 /* YourDesignSystem-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* YourDesignSystem-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -406,7 +406,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportihomeComponents-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YourDesignSystem-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -428,7 +428,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportihomeComponents-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YourDesignSystem-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -450,7 +450,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportihomeComponents-SportihomeComponentsTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YourDesignSystem-YourDesignSystemTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -463,7 +463,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportihomeComponents-SportihomeComponentsTests/Pods-SportihomeComponents-SportihomeComponentsTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-YourDesignSystem-YourDesignSystemTests/Pods-YourDesignSystem-YourDesignSystemTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -472,7 +472,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportihomeComponents-SportihomeComponentsTests/Pods-SportihomeComponents-SportihomeComponentsTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YourDesignSystem-YourDesignSystemTests/Pods-YourDesignSystem-YourDesignSystemTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		DA947E913C5E9FA5D9F5B623 /* [CP] Check Pods Manifest.lock */ = {
@@ -490,7 +490,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SportihomeComponents-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-YourDesignSystem-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -503,7 +503,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SportihomeComponents/Pods-SportihomeComponents-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-YourDesignSystem/Pods-YourDesignSystem-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -512,7 +512,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SportihomeComponents/Pods-SportihomeComponents-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YourDesignSystem/Pods-YourDesignSystem-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -560,7 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* SportihomeComponentsTests.m in Sources */,
+				00E356F31AD99517003FC87E /* YourDesignSystemTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,7 +586,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* SportihomeComponentsTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* YourDesignSystemTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,12 +595,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* SportihomeComponents */;
+			target = 13B07F861A680F5B00A75B9A /* YourDesignSystem */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* SportihomeComponents-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* YourDesignSystem-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -608,14 +608,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 91EDB03D06653C6760795C7C /* Pods-SportihomeComponents-SportihomeComponentsTests.debug.xcconfig */;
+			baseConfigurationReference = 91EDB03D06653C6760795C7C /* Pods-YourDesignSystem-YourDesignSystemTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = SportihomeComponentsTests/Info.plist;
+				INFOPLIST_FILE = YourDesignSystemTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -625,17 +625,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportihomeComponents.app/SportihomeComponents";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YourDesignSystem.app/YourDesignSystem";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA9F5D95D048AFC905FD04E0 /* Pods-SportihomeComponents-SportihomeComponentsTests.release.xcconfig */;
+			baseConfigurationReference = CA9F5D95D048AFC905FD04E0 /* Pods-YourDesignSystem-YourDesignSystemTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = SportihomeComponentsTests/Info.plist;
+				INFOPLIST_FILE = YourDesignSystemTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -645,19 +645,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportihomeComponents.app/SportihomeComponents";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YourDesignSystem.app/YourDesignSystem";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E1D67BB992476E5389883F33 /* Pods-SportihomeComponents.debug.xcconfig */;
+			baseConfigurationReference = E1D67BB992476E5389883F33 /* Pods-YourDesignSystem.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = SportihomeComponents/Info.plist;
+				INFOPLIST_FILE = YourDesignSystem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +665,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportihomeComponents;
+				PRODUCT_NAME = YourDesignSystem;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -674,12 +674,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 334400ADF24D5E410D60DC31 /* Pods-SportihomeComponents.release.xcconfig */;
+			baseConfigurationReference = 334400ADF24D5E410D60DC31 /* Pods-YourDesignSystem.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = SportihomeComponents/Info.plist;
+				INFOPLIST_FILE = YourDesignSystem/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -687,7 +687,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = SportihomeComponents;
+				PRODUCT_NAME = YourDesignSystem;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -695,7 +695,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B1ABB4A5A85E269D3D8D5FB2 /* Pods-SportihomeComponents-tvOS.debug.xcconfig */;
+			baseConfigurationReference = B1ABB4A5A85E269D3D8D5FB2 /* Pods-YourDesignSystem-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -706,14 +706,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportihomeComponents-tvOS/Info.plist";
+				INFOPLIST_FILE = "YourDesignSystem-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SportihomeComponents-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.YourDesignSystem-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -723,7 +723,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FE9668B471C5E2DD1F4094A9 /* Pods-SportihomeComponents-tvOS.release.xcconfig */;
+			baseConfigurationReference = FE9668B471C5E2DD1F4094A9 /* Pods-YourDesignSystem-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -734,14 +734,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportihomeComponents-tvOS/Info.plist";
+				INFOPLIST_FILE = "YourDesignSystem-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SportihomeComponents-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.YourDesignSystem-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -751,7 +751,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F252EA7035A0CE76ADFB072D /* Pods-SportihomeComponents-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = F252EA7035A0CE76ADFB072D /* Pods-YourDesignSystem-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -761,24 +761,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportihomeComponents-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "YourDesignSystem-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SportihomeComponents-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.YourDesignSystem-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportihomeComponents-tvOS.app/SportihomeComponents-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YourDesignSystem-tvOS.app/YourDesignSystem-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4E11932016B4E4F16BDD345E /* Pods-SportihomeComponents-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 4E11932016B4E4F16BDD345E /* Pods-YourDesignSystem-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -788,17 +788,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "SportihomeComponents-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "YourDesignSystem-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SportihomeComponents-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.YourDesignSystem-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SportihomeComponents-tvOS.app/SportihomeComponents-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YourDesignSystem-tvOS.app/YourDesignSystem-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -919,7 +919,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SportihomeComponentsTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "YourDesignSystemTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -928,7 +928,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SportihomeComponents" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "YourDesignSystem" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -937,7 +937,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportihomeComponents-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YourDesignSystem-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -946,7 +946,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SportihomeComponents-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "YourDesignSystem-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -955,7 +955,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SportihomeComponents" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "YourDesignSystem" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
