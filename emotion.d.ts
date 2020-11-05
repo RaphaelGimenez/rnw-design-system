@@ -1,1 +1,1 @@
-declare module '@emotion/native';
+declare module "@emotion/native";

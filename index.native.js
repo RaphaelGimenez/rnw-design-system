@@ -8,4 +8,4 @@
 
 // AppRegistry.registerComponent(appName, () => App);
 
-export {default} from './.storybook-native';
+export { default } from "./.storybook-native";

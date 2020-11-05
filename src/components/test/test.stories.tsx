@@ -1,8 +1,8 @@
-import React from 'react';
-import {storiesOf} from '@storybook/react-native';
+import React from "react";
+import { storiesOf } from "@storybook/react-native";
 
-import Test from './test';
+import Test from "./test";
 
-const testStories = storiesOf('Test', module);
+const testStories = storiesOf("Test", module);
 
-testStories.add('default view', () => <Test />);
+testStories.add("default view", () => <Test />);

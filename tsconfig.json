@@ -2,10 +2,7 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
-    "lib": [
-      "esnext",
-      "dom"
-    ],
+    "lib": ["esnext", "dom"],
     "allowJs": true,
     "jsx": "react",
     "isolatedModules": true,
@@ -26,7 +23,5 @@
     "metro.config.js",
     "jest.config.js"
   ],
-  "include": [
-    "src", "figma.d.ts", "emotion.d.ts"
-  ]
+  "include": ["src", "figma.d.ts", "emotion.d.ts"]
 }

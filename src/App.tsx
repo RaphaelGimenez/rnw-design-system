@@ -8,13 +8,13 @@
  * @format
  */
 
-import React from 'react';
-import {Page, StyleSheet} from 'react-figma';
-import styled from '@emotion/native';
+import React from "react";
+import { Page, StyleSheet } from "react-figma";
+import styled from "@emotion/native";
 
 const styles = StyleSheet.create({
   page: {
-    flexDirection: 'row',
+    flexDirection: "row",
   },
   frameNonFirst: {
     marginLeft: 100,
@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
 
 const App = () => {
   const Test = styled.Text({
-    color: 'green',
+    color: "green",
   });
   return (
     <>
